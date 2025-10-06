@@ -80,11 +80,11 @@ The official source (historically hosted on GNU mirrors) is publicly available t
 
 | Platform | Architecture | Binary Format | Tested | Notes |
 |-----------|---------------|----------------|---------|--------|
-| GNU/Linux | x86_64 | ELF | ✅ | Recommended and most complete |
-| GNU/Linux | i686 | ELF | ⚠️ | Legacy 32-bit systems only |
-| macOS | x86_64 | Mach-O | ⚠️ | Partial functionality, older macOS only |
-| Windows | x86 (MinGW) | PE | ✅ | Tested with MinGW32 environments |
-| *BSD Variants | x86_64 | ELF | ⚙️ | May require minor adjustments |
+| GNU/Linux     | x86_64      | ELF | ✅ | gpc-20070904-slc-6.5-64bit.tar.gz Recommended and most complete |
+| GNU/Linux     | i686        | ELF | ✅ | gpc-20070904-slc-3.0-32bit.tar.gz Legacy 32-bit systems only |
+| Windows       | x86 (MinGW) | PE  | ✅ | gpc-20070904-windows-7-32bit.tar.gzTested with MinGW32 environments |
+
+
 
 If your system’s `glibc` or `libstdc++` versions differ significantly from those used during compilation, **dynamic linking issues** may occur.  
 In such cases, static linking or containerized environments are recommended.
