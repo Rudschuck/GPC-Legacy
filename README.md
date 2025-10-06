@@ -67,9 +67,9 @@ Typical contents include:
 All binary distributions are released as tar-packed files.
 
 
-### 🚫 No Source Code
-To avoid redundancy and confusion, **no GPC source code** is included in this repository.  
-The official source (historically hosted on GNU mirrors) is publicly available through the **GNU archives** or **SourceForge snapshots**.
+### 🚫 No Working Source Code
+
+To satisfy GPL the original source code is added to this repository (gpc-20070904-build.tar.gz). As GPC is outdated since 2005 there is no guarantee that the source code will compile successfully on modern systems. The official source (historically hosted on GNU mirrors) is publicly available through the **GNU archives** or **SourceForge snapshots**:
 
 
 * [>>> GNU Pascal Homepage <<<](https://www.gnu-pascal.de/gpc/h-index.html)
