@@ -101,13 +101,13 @@ Example for an installation of the 64 bit GPC binary:
 
 ```bash
 # Download from GitHub:
-curl http://www.bndhep.net/Software/Pascal/gpc-20070904-slc-6.5-64bit.tar.gz -so gpc-master-64.tar.gz
+curl 'https://raw.githubusercontent.com/Rudschuck/GPC-Legacy/master/gpc-20070904-slc-6.5-64bit.tar.gz' --output gpc-master-64.tar.gz
 
 # Extract into local directory:
 tar -zxvf gpc-master-64.tar.gz
 
 # Start from local directory:
-./usr/local/bin/gpc myprogram.pas -o myprogram
+./usr/local/bin/gpc myprogram.pas -o ./myprogram
 
 ```
 
