@@ -80,9 +80,9 @@ The official source (historically hosted on GNU mirrors) is publicly available t
 
 | Platform | Architecture | Link | Tested | Notes |
 |-----------|---------------|----------------|---------|--------|
-| GNU/Linux     | x86_64      | [(download)(https://raw.githubusercontent.com/Rudschuck/GPC-Legacy/master/gpc-20070904-slc-6.5-64bit.tar.gz) | ✅ | Recommended and most complete |
-| GNU/Linux     | i686        | [(download)(https://raw.githubusercontent.com/Rudschuck/GPC-Legacy/master/gpc-20070904-slc-3.0-32bit.tar.gz) | ✅ |  Legacy 32-bit systems only |
-| Windows       | x86 (MinGW) | [(download)(https://raw.githubusercontent.com/Rudschuck/GPC-Legacy/master/gpc-20070904-windows-7-32bit.tar.gz)
+| GNU/Linux     | x86_64      | [(download)]https://raw.githubusercontent.com/Rudschuck/GPC-Legacy/master/gpc-20070904-slc-6.5-64bit.tar.gz) | ✅ | Recommended and most complete |
+| GNU/Linux     | i686        | [(download)](https://raw.githubusercontent.com/Rudschuck/GPC-Legacy/master/gpc-20070904-slc-3.0-32bit.tar.gz) | ✅ |  Legacy 32-bit systems only |
+| Windows       | x86 (MinGW) | [(download)](https://raw.githubusercontent.com/Rudschuck/GPC-Legacy/master/gpc-20070904-windows-7-32bit.tar.gz)
  | ✅ | Tested with MinGW32 environments |
 
 
